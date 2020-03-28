@@ -1,0 +1,3 @@
+[
+    { "keys": ["Shift+T"], "command": "open_windows_terminal" }
+]
